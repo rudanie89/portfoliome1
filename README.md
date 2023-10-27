@@ -1,7 +1,7 @@
 # Data Scientist
 
 ### Education
-PhD in Computer Science, RMIT University, Australia
+- Doctor of Philosophy in Computer Science, RMIT University, Australia
 
 ### Work Experience
 
