@@ -9,7 +9,6 @@
 - Australia Award Scholarship (2016 - 2017)
 - Vu A Dinh Scholarship for Outstanding student (2007-2009)
 - Odon Vallet scholarship for excellent High school student (2006)
-
 ## Work Experience
 - Lecturer, Tay Nguyen University, Vietnam (March 2011 - December 2015)
   - Developed curricula and course materials.
@@ -25,7 +24,7 @@
 3. H Ruda Nie, Xiuzhen Zhang, Minyi Li, and Anil Dolgun. Mitigation of rumours in social networks via epidemic model-based reinforcement learning. In 2022 IEEE 9th International Conference on Data Science and Advanced Analytics (DSAA), pages 1–10. IEEE, 2022.
 ### Poster Presentations (I need to find the appropriate name for this)
 - Poster title: A Joint Model of Multivariate Hawkes Processes and Marked Hawkes Process for Popularity Prediction. The 1st CIDDA Research Day: CReD’19, RMIT University, Australia (2019)
--   Poster title: Latent Semantic Analysis as a Feature Extraction Technique for Text Categorization. AI4life 2018, Vietnam National University, Hanoi, University of Engineering and Technology (2018)
+- Poster title: Latent Semantic Analysis as a Feature Extraction Technique for Text Categorization. AI4life 2018, Vietnam National University, Hanoi, University of Engineering and Technology (2018)
 ## COMMITTEE AND VOLUNTEER
 - Member of CreD’20 organization, designing a virtual space (using Gather Town) for the research day was delivered during COVID-19.The 2nd CIDDA Research Day: CReD’20, RMIT University, Australia.
 - Volunteering to help organizing the 1st CIDDA Research Day: CReD’19, RMIT University, Australia.
