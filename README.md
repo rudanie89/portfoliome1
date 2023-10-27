@@ -7,7 +7,7 @@
 
 ## Work Experience
 - Lecturer, Tay Nguyen University, Vietnam
-- - Taught and 
+  - Taught and 
 ## Publications
 1. H Ruda Nie, Xiuzhen Zhang, Minyi Li, Anil Dolgun, and James Baglin. Modelling user influence and rumor propagation on twitter using hawkes processes. In 2020 IEEE 7th International Conference on Data Science and Advanced Analytics (DSAA), pages 637–656. IEEE, 2020.
 2. H Ruda Nie, Xiuzhen Zhang, Minyi Li, James Baglin, and Anil Dolgun. Early rumour detection with temporal bidirectional graph convolutional networks. In PACIS, page 74, 2021.
